@@ -8,12 +8,11 @@ Booked test volume in January to June 2026 was 458,089 against 436,302 in Januar
 
 ## Members and parts
 
-| Member        | Part of the work owned | Notebooks     | Approach-log rows |
-| ------------- | ---------------------- | ------------- | ----------------- |
-| Akhil Maliwal | <part>                 | <e.g. 01, 02> | <row numbers>     |
-| Mohit Pasupuleti       | <part>                 | <e.g. 03, 04> | <row numbers>     |
-| Nitya        | <part>                 | <e.g. 05>     | <row numbers>     |
-
+| Member           | Part of the work owned               | Notebooks     | Approach-log rows |
+| ---------------- | ------------------------------------ | ------------- | ----------------- |
+| Akhil Maliwal    | Data Merging, Hypothesis 11,14       | <e.g. 01, 02> | <row numbers>     |
+| Mohit Pasupuleti | Hypothesis, Analysis, Hypothesis 1-5 | <e.g. 03, 04> | <row numbers>     |
+| Nitya            | Data Cleaning, Hypothesis 6-11       | <e.g. 05>     | <row numbers>     |
 
 ## How to run
 
