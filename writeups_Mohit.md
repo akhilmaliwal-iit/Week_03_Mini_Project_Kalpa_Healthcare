@@ -38,7 +38,7 @@ Volume is people times how often they come times how much each visit carries, an
 
 **7. Where did the team work well, where did it not, and what would you change for Build 2?**
 
-What worked was agreeing one definition of test volume before any code, and giving the team check values to match. What did not work at first was the time basis. Different documents showed 4.97% and 4.99% until we fixed slot date as the basis and wrote it down. For Build 2 I would write the definition, the time basis and the identity rule on day one, and log them before the first notebook. [Add what you saw in how the team split the work and reviewed each other.]
+What worked was agreeing one definition of test volume before any code, and giving the team check values to match. What did not work at first was the time basis. Different documents showed 4.97% and 4.99% until we fixed slot date as the basis and wrote it down. For Build 2 I would write the definition, the time basis and the identity rule on day one, and log them before the first notebook.
 
 **8. Which idea from Weeks 1 and 2 do you understand better after using it on this data, and what was fuzzy before?**
 
@@ -50,4 +50,4 @@ The tree. I was fuzzy on whether it multiplies totals. It has to be ratios (visi
 
 **10. If you had two more days, what would you do first, and why that?**
 
-First I would pull 2024 bookings to see whether the return rate of about a third has changed. That decides whether the other four cities have a plan problem or a retention problem, and they hold 56.2% of the gap. Second, I would ask the Chennai and Jaipur city heads about competitors, pricing and referral doctors, since that is the only way to find out what happened from January.
+First I would pull 2024 bookings to see whether the return rate of about a third has changed. That decides whether the other four cities have a plan problem or a retention problem, and they hold 56.2% of the gap. Second, I would ask the Chennai and Jaipur city heads about competitors, pricing and referral doctors, since that is the only way to find out what happened from January. What would help even more is having some data on Metropolis or LalPath's so that I can compare KPI's and identify where Kalpa's test volume fell short
